@@ -1,0 +1,19 @@
+langchain
+langgraph
+langchain_community
+langchain_core
+langchain_groq
+langchain_openai
+fastapi
+uvicorn
+watchdog
+youtube-transcript-api
+huggingface_hub
+transformers
+langgraph-cli[inmem]
+redis  
+python-dotenv  
+fastapi   
+
+
+# this is use for SDLC Modular coding 

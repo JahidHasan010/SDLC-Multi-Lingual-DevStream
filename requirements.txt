@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langgraph
+langchain_core
+langchain_groq
+langchain_openai
+python-dotenv
+streamlit
+youtube_transcript_api
+
+# this is use for streamlit_final.py and streamlit.py and file running
